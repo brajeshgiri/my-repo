@@ -1,9 +1,4 @@
 local
 remote
 local
-<<<<<<< HEAD
-remote
-again loca
-=======
 again local
->>>>>>> d0e572e... local change
