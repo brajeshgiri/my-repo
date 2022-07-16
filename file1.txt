@@ -4,6 +4,10 @@ local
 remote
 remote 15-07-.1
 local 16-07.1
+<<<<<<< HEAD
 local 16-07.1
 remote 16-07.2
 local 16-07.1
+=======
+local 16-07.1
+>>>>>>> 3154a73... f5
